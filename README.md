@@ -11,6 +11,7 @@ A curated list of awesome resources related to [effect-ts](https://www.effect.we
 
 - [Effect-ts Youtube Channel](https://www.youtube.com/@effect-ts)
 - [Introduction to Effect, Michael Arnaldi, WorkerConf 2022 Dornbirn](https://www.youtube.com/watch?v=zrNr3JVUc8I)
+- [Effect-ful computations with Fibers](https://www.youtube.com/watch?v=uwALExyq4NY)
 
 ## Blog
 
