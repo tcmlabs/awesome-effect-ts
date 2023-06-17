@@ -7,6 +7,15 @@ A curated list of awesome resources related to [effect-ts](https://www.effect.we
 - [Pigoz's effect crashcourse](https://github.com/pigoz/effect-crashcourse) - The practical guide [@Pigoz](https://twitter.com/pigoz) wish existed while learning effect-ts
 - [Effect introduction](https://github.com/antoine-coulon/effect-introduction) - A practical introduction to effect-ts by [@antoine-coulon](https://twitter.com/c9antoine)
 
+## Videos
+
+- [Effect-ts Youtube Channel](https://www.youtube.com/@effect-ts)
+- [Introduction to Effect, Michael Arnaldi, WorkerConf 2022 Dornbirn](https://www.youtube.com/watch?v=zrNr3JVUc8I)
+
+## Blog
+
+- [Effect-ts on dev.to](https://dev.to/effect-ts)
+
 ## Open source
 
 ### Libraries based on effect-ts
