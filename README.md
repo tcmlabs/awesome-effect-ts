@@ -6,6 +6,7 @@ A curated list of awesome resources related to [effect-ts](https://www.effect.we
 
 - [Pigoz's effect crashcourse](https://github.com/pigoz/effect-crashcourse) - The practical guide [@Pigoz](https://twitter.com/pigoz) wish existed while learning effect-ts
 - [Effect introduction](https://github.com/antoine-coulon/effect-introduction) - A practical introduction to effect-ts by [@antoine-coulon](https://twitter.com/c9antoine)
+- [From fp-ts to effect-ts: How to guide](https://www.sandromaglione.com/techblog/from-fp-ts-to-effect-ts-migration-guide) - A walkthrough by [@SandroMaglione](https://twitter.com/SandroMaglione)
 
 ## Videos
 
