@@ -24,6 +24,7 @@ A curated list of awesome resources related to [effect-ts](https://www.effect.we
 
 - [effect-rpc](https://github.com/tim-smart/effect-rpc) - A type-safe RPC library for effect-ts
 - [effect-schema-class](https://github.com/tim-smart/effect-schema-class) - The power of @effect/schema and classes combined!
+- [sqlfx](https://github.com/tim-smart/sqlfx) - SQL toolkit
 
 ### Applications
 
